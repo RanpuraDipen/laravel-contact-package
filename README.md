@@ -1,5 +1,5 @@
 # Contact Us Form Laravel Package
-<hr>
+
 
 ![Issuses](https://img.shields.io/github/issues/RanpuraDipen/laravel-contact-package)
 ![Forks](https://img.shields.io/github/forks/RanpuraDipen/laravel-contact-package)
