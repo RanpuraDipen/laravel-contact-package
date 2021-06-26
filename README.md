@@ -5,6 +5,8 @@
 ![Forks](https://img.shields.io/github/forks/RanpuraDipen/laravel-contact-package)
 ![Stars](	https://img.shields.io/github/stars/RanpuraDipen/laravel-contact-package)
 
+**For Laravel 5.7**
+
 ## Inrtoduction
 This will send email to admin and save contact query in database.
 
@@ -45,3 +47,20 @@ MAIL_ENCRYPTION='tls'
 MAIL_FROM_ADDRESS='your email id'
 MAIL_FROM_NAME="${APP_NAME}"
 ```
+
+## Usage
+
+#### Start Local Server 
+
+```bash
+php artisan serve
+```
+### Enjoy :)
+
+```bash
+http://localhost:8000/contact
+```
+
+#### That's all folks!
+
+
