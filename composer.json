@@ -9,5 +9,12 @@
         "psr-4": {
             "Dipen\\Contact\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Dipen\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
