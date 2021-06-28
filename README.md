@@ -44,8 +44,6 @@ MAIL_PORT=587
 MAIL_USERNAME='your email id'
 MAIL_PASSWORD='your email password'
 MAIL_ENCRYPTION='tls'
-MAIL_FROM_ADDRESS='your email id'
-MAIL_FROM_NAME="${APP_NAME}"
 ```
 
 ## Usage
